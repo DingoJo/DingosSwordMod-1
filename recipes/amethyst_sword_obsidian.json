@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  B",
+        " B ",
+        "H  "
+    ],
+
+    "key":
+    { 
+        "B":
+        {
+            "item": "ds:amethyst_blade"
+        },
+        
+        "H":
+        {
+            "item": "ds:obsidian_handle"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:amethyst_sword_obsidian"
+    }
+}

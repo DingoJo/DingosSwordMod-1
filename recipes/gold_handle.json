@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BIB",
+        " I ",
+        " B "
+    ],
+
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:gold_block"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:gold_handle"
+    }
+}

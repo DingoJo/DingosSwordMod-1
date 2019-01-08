@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  A",
+        " A ",
+        "A  "
+    ],
+
+    "key":
+    { 
+        "A":
+        {
+            "item": "ds:amethyst"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:amethyst_blade"
+    }
+}

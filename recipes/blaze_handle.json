@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PRP",
+        " R ",
+        " P "
+    ],
+
+    "key":
+    { 
+        "P":
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:blaze_handle"
+    }
+}

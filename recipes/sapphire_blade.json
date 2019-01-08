@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  S",
+        " S ",
+        "S  "
+    ],
+
+    "key":
+    { 
+        "S":
+        {
+            "item": "ds_sapphire"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:sapphire_blade"
+    }
+}

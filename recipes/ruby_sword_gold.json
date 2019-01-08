@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  B",
+        " B ",
+        "H  "
+    ],
+
+    "key":
+    { 
+        "B":
+        {
+            "item": "ds:ruby_blade"
+        },
+        
+        "H":
+        {
+            "item": "ds:gold_handle"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:ruby_sword_gold"
+    }
+}

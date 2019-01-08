@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  B",
+        " B ",
+        "H  "
+    ],
+
+    "key":
+    { 
+        "B":
+        {
+            "item": "ds:topaz_blade"
+        },
+        
+        "H":
+        {
+            "item": "ds:obsidian_handle"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:topaz_sword_obsidian"
+    }
+}

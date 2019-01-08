@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  W",
+        " W ",
+        "W  "
+    ],
+
+    "key":
+    { 
+        "W":
+        {
+            "item": "ds:water_crystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:water_crystal_blade"
+    }
+}

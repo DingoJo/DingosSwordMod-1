@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WWW",
+        " W ",
+        " w "
+    ],
+
+    "key":
+    { 
+        "W":
+        {
+            "item": "ds:wither_bone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:wither_handle"
+    }
+}

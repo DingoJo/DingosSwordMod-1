@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  B",
+        " B ",
+        "H  "
+    ],
+
+    "key":
+    { 
+        "B":
+        {
+            "item": "ds:demonic_blade"
+        },
+        
+        "H":
+        {
+            "item": "ds:wither_handle"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:demonic_sword_wither"
+    }
+}

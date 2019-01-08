@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        " B ",
+        " B "
+    ],
+
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:obsidian_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:obsidian_handle"
+    }
+}
