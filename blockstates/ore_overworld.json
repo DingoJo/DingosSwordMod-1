@@ -1,0 +1,11 @@
+{
+    "variants":
+    {
+        "variant=amethyst": { "model": "ds:ore_overworld_amethyst" },
+        "variant=ruby": { "model": "ds:ore_overworld_ruby" },
+        "variant=sapphire": { "model": "ds:ore_overworld_sapphire" },
+        "variant=topaz": { "model": "ds:ore_overworld_topaz" },
+        "variant=water_crystal": { "model": "ds:ore_overworld_water_crystal" },
+        "variant=amber": { "model": "ds:ore_overworld_amber" }
+    }
+}

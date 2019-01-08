@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=demonic_crystal": { "model": "ds:ore_nether_demonic_crystal" }
+    }
+}
